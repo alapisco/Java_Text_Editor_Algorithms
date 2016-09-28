@@ -13,6 +13,10 @@ The following text processing algorithms were implemented:
 - Auto Complete
 
 
+![alt tag](https://raw.githubusercontent.com/alapisco/Java-Text-Editor-Algorithms/images/UI_Text.png)
+
+
+
 
 ## Java Code ##
 
