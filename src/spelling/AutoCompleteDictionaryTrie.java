@@ -60,7 +60,6 @@ public class AutoCompleteDictionaryTrie implements Dictionary, AutoComplete {
 
 		}
 
-		// TODO: Implement this method.
 		return true;
 	}
 
